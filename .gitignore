@@ -1,0 +1,10 @@
+/venv
+*.log
+test.py
+al.py
+al3.py
+close_positions.py
+test.ipynb
+nohup.out
+config.py
+__pycache__
